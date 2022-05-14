@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Will
+- 🎓 I'm currently studying computer science and philosophy at the University of Otago.
+- 🎮 In my spare time I am working on an RTS game in Unity3D, which shall rename nameless (because I haven't named it yet) for the moment.
+- 👨‍💻 If I conjure up anything I think strangers might find interesting or useful, you'll find it here :)
